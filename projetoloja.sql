@@ -1,0 +1,1 @@
+SELECT * FROM projetoloja.funcionarios;

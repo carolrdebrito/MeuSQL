@@ -13,9 +13,9 @@ CREATE TABLE Clientes (
 
 -- 2.Inserir Dados (DML)
 INSERT INTO Clientes (nome, email, telefone)
-VALUES ('Romeu Park', 'parkromeu@email.com', '2110-2018'),
-       ('Manu Park', 'parkmanu@email.com', '1601-2019'),
-       ('Luna Son', 'sonluna@email.com', '0604-2020');
+VALUES ('Romeu Park', 'parkromeu@email.com', '21 2110-2018'),
+       ('Manu Park', 'parkmanu@email.com', '21 1601-2019'),
+       ('Luna Son', 'sonluna@email.com', '21 0604-2020');
 
 -- 3.Consultar Dados (DQL)
 SELECT * FROM Clientes;

@@ -32,3 +32,5 @@ AS = renomeia a coluna no resultado (só muda na consulta!)
 FROM Pedidos pe = A consulta começa na tabela Pedidos.
 O pe é um apelido para a tabela, ao invés de escrever Pedido.id_cliente.
 
+-- Apaga o database -- CUIDADO AO USAR! 
+DROP DATABASE projetoloja;
